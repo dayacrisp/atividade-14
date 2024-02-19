@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(180, 168, 191);
+}
+
+.container {
+    max-width: 800px;
+}
+
+footer {
+    text-align: center;
+}
